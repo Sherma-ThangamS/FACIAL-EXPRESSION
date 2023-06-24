@@ -56,5 +56,5 @@ class_labels = ['Happy', 'Sad', 'Surprise']
 predicted_class_label = class_labels[predicted_class_index]
 
 print("Predicted facial expression: ", predicted_class_label)
-# Contributing
+## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
