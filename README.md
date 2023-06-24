@@ -40,7 +40,7 @@ from tensorflow import keras
 from tensorflow.keras.preprocessing import image
 
 # Load the trained model
-model = keras.models.load_model('model.h5')
+model = keras.models.load_model('model7.h5')
 
 # Load and preprocess the image
 img = image.load_img('path/to/your/image.jpg', target_size=(84, 76))
