@@ -22,14 +22,11 @@ The facial expression recognition model is built using Keras, a high-level deep 
 git clone  https://github.com/Sherma-ThangamS/FACIAL-EXPRESSION
 
 
-2. Install the required dependencies:
-
-pip install -r requirements.txt
 
 
-3. Run the Jupyter Notebook `Facial_Expression.ipynb` to train the model and evaluate its performance.
+2. Run the Jupyter Notebook `Facial_Expression.ipynb` to train the model and evaluate its performance.
 
-4. Once the model is trained, you can use it for predicting facial expressions on new images.
+3. Once the model is trained, you can use it for predicting facial expressions on new images.
 
 ## Usage
 
